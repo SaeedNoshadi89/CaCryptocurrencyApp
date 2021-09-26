@@ -1,7 +1,6 @@
 package com.sn.cacryptocurrencyapp.domain.model
 
 import com.sn.cacryptocurrencyapp.data.remote.dto.TeamMember
-import java.io.FileDescriptor
 
 data class CoinDetail(
     val coinId: String,
